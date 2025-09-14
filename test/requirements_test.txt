@@ -1,0 +1,2 @@
+# Selenium 自动化测试依赖
+selenium==4.11.2
